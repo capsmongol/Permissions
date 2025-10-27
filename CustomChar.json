@@ -1,17 +1,20 @@
 {
-    "PlayerPermission": {
-        "Capsmongy": {
-            "Tier": 1000
-        },
-        "k00KIe": {
-            "Tier": 1000
-        }
+  "PlayerPermission": {
+    "Capsmongy": {
+      "PlayerTier": 1000
     },
-    "Characters": {
-        "Gojo": {
-            "Tier": 1,
-            "Permission": [],
-            "ImageID": 103953194753301
-        }
+    "k00KIe": {
+      "PlayerTier": 1000
     }
+  },
+  "Characters": {
+    "gojo": {
+      "Tier": 1,
+      "Permission": {}
+    },
+    "meguna": {
+      "Tier": 100,
+      "Permission": {}
+    }
+  }
 }
