@@ -1,0 +1,18 @@
+{
+  "62112955": {
+    "Name": "Tokyo Manji Gang",
+    "Health": 1000,
+    "Itens": {
+      "Kokusen": 2,
+      "FireKick": 2,
+      "Rasteira": 2,
+      "DoubleJump": 2
+    },
+    "Roupa": { "Shirt": 0, "Pants": 0 },
+    "Colors": {
+      "Nome":   { "Letra": [0, 0, 0], "Borda": [1, 1, 1] },
+      "Patente":{ "Letra": [0, 0, 0], "Borda": [1, 1, 1] },
+      "Team":   { "Letra": [0, 0, 0], "Borda": [1, 0.984, 0] }
+    }
+  }
+}
