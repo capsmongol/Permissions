@@ -41,5 +41,16 @@
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Team": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] }
     }
+  },
+
+   "529553621": {
+    "Name": "Valhalla | New Generation",
+    "Health": 1000,
+    "Itens": ["Kokusen", "Susanoo"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+    }
   }
 }
