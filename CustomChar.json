@@ -5,16 +5,23 @@
     },
     "k00KIe": {
       "PlayerTier": 1000
+    },
+    "hdhegskdv": {
+      "PlayerTier": 100
     }
   },
   "Characters": {
     "gojo": {
       "Tier": 1,
-      "Permission": {}
+      "Permission": []
     },
-    "meguna": {
+    "denji": {
+      "Tier": 1,
+      "Permission": [4226006410]
+    },
+    "diavolo": {
       "Tier": 100,
-      "Permission": {}
+      "Permission": []
     }
   }
 }
