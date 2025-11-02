@@ -1,18 +1,45 @@
 {
-  "62112955": {
+  "11199941": {
     "Name": "Tokyo Manji Gang",
     "Health": 1000,
-    "Itens": {
-      "Kokusen": 2,
-      "FireKick": 2,
-      "Rasteira": 2,
-      "DoubleJump": 2
-    },
-    "Roupa": { "Shirt": 0, "Pants": 0 },
+    "Itens": ["ChuteDeGelo", "Kick", "Kirin", "Rinnegan", "Sandevistan"],
     "Colors": {
-      "Nome":   { "Letra": [0, 0, 0], "Borda": [1, 1, 1] },
-      "Patente":{ "Letra": [0, 0, 0], "Borda": [1, 1, 1] },
-      "Team":   { "Letra": [0, 0, 0], "Borda": [1, 0.984, 0] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
+    }
+  },
+
+  "33284171": {
+    "Name": "Luas Superiores",
+    "Health": 1000,
+    "Itens": ["BlizzardThorns", "Collateral", "PisaoLuas"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [0, 0, 0] }
+    }
+  },
+
+  "35655971": {
+    "Name": "Yakuza Gangue",
+    "Health": 1000,
+    "Itens": ["Kokusen", "Raio", "Rinnegan"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [154, 0, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [154, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [154, 0, 0] }
+    }
+  },
+
+  "35898106": {
+    "Name": "黒翼Fallen Angels黒翼",
+    "Health": 1000,
+    "Itens": ["ChuteDeGelo", "HinokamiKagura", "MundoTransparente", "Raio", "Kokusen"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] }
     }
   }
 }
