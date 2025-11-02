@@ -13,7 +13,7 @@
   "33284171": {
     "Name": "Luas Superiores",
     "Health": 1000,
-    "Itens": ["BlizzardThorns", "Collateral", "PisaoLuas"],
+    "Itens": ["BlizzardThorns", "Collateral", "PisaoLuas", "CloneDasSombras", "ChuteDeGelo"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -24,7 +24,7 @@
   "35655971": {
     "Name": "Yakuza Gangue",
     "Health": 1000,
-    "Itens": ["Kokusen", "Raio", "Rinnegan"],
+    "Itens": ["Kokusen", "Raio", "Rinnegan", "BlizzardThorns"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [154, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [154, 0, 0] },
@@ -40,6 +40,17 @@
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Team": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] }
+    }
+  },
+
+  "34762763": {
+    "Name": "Amendobobos",
+    "Health": 1000,
+    "Itens": ["ChuteDeGelo", "Rinnegan", "Raio", "Kokusen"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
     }
   },
 
