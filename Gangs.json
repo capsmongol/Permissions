@@ -43,17 +43,6 @@
     }
   },
 
-  "34762763": {
-    "Name": "Amendobobos",
-    "Health": 1000,
-    "Itens": ["ChuteDeGelo", "Rinnegan", "Raio", "Kokusen"],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
-    }
-  },
-
    "529553621": {
     "Name": "Valhalla | New Generation",
     "Health": 1000,
@@ -62,6 +51,17 @@
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+    }
+  },
+
+    "34762763": {
+    "Name": "Amendobobos",
+    "Health": 1000,
+    "Itens": ["ChuteDeGelo", "Rinnegan", "Raio", "Kokusen"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
     }
   }
 }
