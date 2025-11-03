@@ -25,6 +25,10 @@
     "diavolo": {
       "Tier": 100,
       "Permission": []
+    },
+    "sukunaheian": {
+      "Tier": 100,
+      "Permission": []
     }
   }
 }
