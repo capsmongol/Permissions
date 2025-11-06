@@ -10,28 +10,42 @@
       "PlayerTier": 1000
     },
     "logui122_X": {
-      "PlayerTier": 1000
+      "PlayerTier": 100
     },
     "hdhegskdv": {
-      "PlayerTier": 100
+      "PlayerTier": 1
     }
   },
   "Characters": {
     "gojo": {
       "Tier": 1,
-      "Permission": [3484096755, 7548211505]
+      "Permission": [3484096755, 7548211505],
+      "Icon": "109085672677744"
     },
     "denji": {
       "Tier": 1,
-      "Permission": [4226006410]
+      "Permission": [4226006410],
+      "Icon": "87649068882926"
     },
     "diavolo": {
       "Tier": 100,
-      "Permission": []
+      "Permission": [],
+      "Icon": "104230716807433"
     },
     "sukunaheian": {
       "Tier": 100,
-      "Permission": []
+      "Permission": [],
+      "Icon": "76122158265995"
+    },
+    "eren": {
+      "Tier": 1,
+      "Permission": [],
+      "Icon": "84446701462066"
+    },
+    "subaru": {
+      "Tier": 1,
+      "Permission": [],
+      "Icon": "119271049218295"
     }
   }
 }
