@@ -75,13 +75,23 @@
     }
   },
    "33633010": {
-    "Name": "Tenjiku Gang",
+    "Name": "Legião Arcana",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
     "Colors": {
       "Nome": { "Texto": [255, 255, 255], "Borda": [153, 0, 0] },
       "Patente": { "Texto": [255, 255, 255], "Borda": [153, 0, 0] },
       "Team": { "Texto": [255, 255, 255], "Borda": [153, 0, 0] }
+    }
+  },
+   "33869764": {
+    "Name": "Tenjiku Gang",
+    "Health": 1000,
+    "Itens": ["Kokusen", "FireKick"],
+    "Colors": {
+      "Nome": { "Texto": [255, 255, 255], "Borda": [255, 255, 0] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [255, 255, 0] },
+      "Team": { "Texto": [255, 255, 255], "Borda": [255, 255, 0] }
     }
   }
 }
