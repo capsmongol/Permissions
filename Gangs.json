@@ -75,13 +75,13 @@
     }
   },
    "33633010": {
-    "Name": "Tenjiku Gang",
+    "Name": "SoloNoCB",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
     "Colors": {
-      "Nome": { "Texto": [255, 255, 255], "Borda": [153, 0, 0] },
-      "Patente": { "Texto": [255, 255, 255], "Borda": [153, 0, 0] },
-      "Team": { "Texto": [255, 255, 255], "Borda": [153, 0, 0] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] }
     }
   },
    "33869764": {
