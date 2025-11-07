@@ -75,7 +75,7 @@
     }
   },
    "33633010": {
-    "Name": "Legião Arcana",
+    "Name": "Tenjiku Gang",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
     "Colors": {
@@ -85,7 +85,7 @@
     }
   },
    "33869764": {
-    "Name": "Tenjiku Gang",
+    "Name": "Legião Arcana",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
     "Colors": {
