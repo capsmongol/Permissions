@@ -14,12 +14,15 @@
     },
     "hdhegskdv": {
       "PlayerTier": 1
+    },
+     "Lord12345Baby": {
+      "PlayerTier": 10
     }
   },
   "Characters": {
     "gojo": {
       "Tier": 1,
-      "Permission": [3484096755, 7548211505],
+      "Permission": [7548211505],
       "Icon": "109085672677744"
     },
     "denji": {
@@ -46,6 +49,11 @@
       "Tier": 1,
       "Permission": [],
       "Icon": "119271049218295"
+    },
+     "zake": {
+      "Tier": 10,
+      "Permission": [],
+      "Icon": "113683549294922"
     }
   }
 }
