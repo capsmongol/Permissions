@@ -84,6 +84,16 @@
       "Team": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] }
     }
   },
+   "34976153": {
+    "Name": "Heiwa",
+    "Health": 1000,
+    "Itens": ["Kokusen", "FireKick"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
+    }
+  },
    "33869764": {
     "Name": "Legião Arcana",
     "Health": 1000,
