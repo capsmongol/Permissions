@@ -69,9 +69,9 @@
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
     "Colors": {
-      "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
     }
   },
    "33633010": {
