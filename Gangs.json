@@ -24,7 +24,7 @@
   "33284171": {
     "Name": "Luas Superiores",
     "Health": 1000,
-    "Itens": ["PisaoLuas", "Raio"],
+    "Itens": ["PisaoLuas"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
