@@ -26,12 +26,12 @@
     "Yoriichi": {
       "Tier": 1,
       "Permission": [],
-      "Icon" = 70445483214940
+      "Icon": 70445483214940
     },
     "Kokushibo": {
       "Tier": 1,
       "Permission": [],
-      "Icon" = 70974411342850
+      "Icon": 70974411342850
     }
   }
 }
