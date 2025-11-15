@@ -25,11 +25,13 @@
   "Characters": {
     "Yoriichi": {
       "Tier": 1,
-      "Permission": []
+      "Permission": [],
+      "Icon" = 70445483214940
     },
     "Kokushibo": {
       "Tier": 1,
-      "Permission": []
+      "Permission": [],
+      "Icon" = 70974411342850
     }
   }
 }
