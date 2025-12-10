@@ -1,7 +1,7 @@
 {
   "11199941": {
     "Name": "Tokyo Manji Gang",
-    "Health": 1000,
+    "Health": 50000,
     "Itens": [{"Nome": "Template"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
@@ -12,7 +12,7 @@
 
   "33284171": {
     "Name": "Luas Superiores",
-    "Health": 1000,
+    "Health": 50000,
     "Itens": [{"Nome": "Template"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -23,7 +23,7 @@
 
   "35898106": {
     "Name": "黒翼Fallen Angels黒翼",
-    "Health": 1000,
+    "Health": 10000,
     "Itens": [{"Nome": "Template"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
