@@ -2,7 +2,7 @@
   "11199941": {
     "Name": "Tokyo Manji Gang",
     "Health": 50000,
-    "Itens": [{"Nome": "Template"}],
+    "Itens": [{"Nome": "Chute"}, {"Nome": "Template"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
