@@ -2,7 +2,7 @@
   "11199941": {
     "Name": "Tokyo Manji Gang",
     "Health": 50000,
-    "Itens": [{"Nome": "Chute"}, {"Nome": "BlackHole"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 70, "Strength": 2}}],
+    "Itens": [{"Nome": "Chute"}, {"Nome": "BlackHole"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 90, "Strength": 2}}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
