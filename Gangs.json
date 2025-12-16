@@ -13,7 +13,7 @@
   "33284171": {
     "Name": "Luas Superiores",
     "Health": 50000,
-    "Itens": [{"Nome": "Chute"}, {"Nome": "Colateral"}],
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "FPColateral"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -24,7 +24,7 @@
   "35898106": {
     "Name": "黒翼Fallen Angels黒翼",
     "Health": 10000,
-    "Itens": [{"Nome": "Chute"}],
+    "Itens": [{"Nome": "Kokusen"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -35,7 +35,7 @@
   "34271955": {
     "Name": "Sono's Family",
     "Health": 50000,
-    "Itens": [{"Nome": "Chute"}],
+    "Itens": [{"Nome": "Kokusen"}],
     "Colors": {
       "Nome": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] },
       "Patente": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] },
