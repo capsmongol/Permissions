@@ -2,7 +2,7 @@
   "11199941": {
     "Name": "Tokyo Manji Gang",
     "Health": 50000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "BlackHole"}, {"Nome": "BenimaruGrab"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 58.75, "Strength": 0.7}}, {"Nome": "SusanooGrab"}, {"Nome": "FPColateral"}],
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "BlackHole"}, {"Nome": "BenimaruGrab"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 45, "Strength": 3}}, {"Nome": "SusanooGrab"}, {"Nome": "FPColateral"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
