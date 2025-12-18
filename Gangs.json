@@ -13,7 +13,7 @@
   "33284171": {
     "Name": "Luas Superiores",
     "Health": 50000,
-    "Itens": [{"Nome": "PisaoLuas"}, {"Nome": "FPColateral"}, {"Nome": "RaioFP"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 75, "Strength": 0.8}}}, {"Nome": "CorteDiabolico"}],
+    "Itens": [{"Nome": "PisaoLuas"}, {"Nome": "FPColateral"}, {"Nome": "RaioFP"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 75, "Strength": 0.8}}, {"Nome": "CorteDiabolico"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
