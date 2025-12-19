@@ -2,7 +2,7 @@
   "11199941": {
     "Name": "Tokyo Manji Gang",
     "Health": 50000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "BlackHole"}, {"Nome": "BenimaruGrab"}, {"Nome": "CorteDoSol"}, {"Nome": "RaioFP"}, {"Nome": "CorteDiabolico"}, {"Nome": "ChuteDeGelo"}, {"Nome": "HakiDoRei"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 23, "Strength": 1.435}}, {"Nome": "SusanooGrab"}, {"Nome": "SusanooSlap"}, {"Nome": "FPColateral"}],
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "BlackHole"}, {"Nome": "BenimaruGrab"}, {"Nome": "CorteDoSol"}, {"Nome": "RaioFP"}, {"Nome": "CorteDiabolico"}, {"Nome": "ChuteDeGelo"}, {"Nome": "HakiDoRei"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 23, "Strength": 1.435}}, {"Nome": "SusanooGrab"}, {"Nome": "SusanooSlap"}, {"Nome": "FPColateral"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
