@@ -35,7 +35,7 @@
   "34271955": {
     "Name": "Sono's Family",
     "Health": 50000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}],
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "Foice"}, {"Nome": "Rinnegan"}],
     "Colors": {
       "Nome": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] },
       "Patente": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] },
