@@ -25,18 +25,19 @@
   "Characters": {
     "Yoriichi": {
       "Tier": 1,
-      "Permission": [3859421439],
-      "Icon": 70445483214940
+      "Permission": [3859421439]
     },
     "Kokushibo": {
       "Tier": 1,
-      "Permission": [],
-      "Icon": 70974411342850
+      "Permission": []
     },
     "Mob": {
       "Tier": 1,
-      "Permission": [],
-      "Icon": 124014231554181
+      "Permission": []
+    },
+     "Himeno": {
+      "Tier": 1,
+      "Permission": []
     }
   }
 }
