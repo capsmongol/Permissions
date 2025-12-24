@@ -52,5 +52,16 @@
       "Patente": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] },
       "Team": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] }
     }
+  },
+
+   "944451740": {
+    "Name": "Manicas",
+    "Health": 50000,
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "BlackHole"}, {"Nome": "BenimaruGrab"}, {"Nome": "CorteDoSol"}, {"Nome": "ChuteDeGelo"}, {"Nome": "HakiDoRei"}, {"Nome": "DemonBash"}, {"Nome": "SusanooEspada"}, {"Nome": "FPColateral"}, {"Nome": "RaioFP"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 75, "Strength": 1.35}}, {"Nome": "CorteDiabolico"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "Foice"}],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
+    }
   }
 }
