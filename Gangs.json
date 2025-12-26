@@ -33,13 +33,13 @@
   },
 
   "34271955": {
-    "Name": "Sono's Family",
+    "Name": "Valhalla Gang",
     "Health": 50000,
     "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "Foice"}, {"Nome": "Rinnegan"}, {"Nome": "SusanooSlap"}],
     "Colors": {
-      "Nome": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] }
+      "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] }
     }
   },
 
