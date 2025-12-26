@@ -35,7 +35,7 @@
   "34271955": {
     "Name": "Sono's Family",
     "Health": 50000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "Foice"}, {"Nome": "Rinnegan"}],
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "Foice"}, {"Nome": "Rinnegan"}, {"Nome": "SusanooSlap"}],
     "Colors": {
       "Nome": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] },
       "Patente": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] },
@@ -79,7 +79,7 @@
    "944451740": {
     "Name": "Manicas",
     "Health": 150000,
-    "Itens": [{"Nome": "PisaoLuas"}, {"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "BlackHole"}, {"Nome": "Colateral"}, {"Nome": "BenimaruGrab"}, {"Nome": "CorteDoSol"}, {"Nome": "ChuteDeGelo"}, {"Nome": "HakiDoRei"}, {"Nome": "DemonBash"}, {"Nome": "SusanooEspada"}, {"Nome": "FPColateral"}, {"Nome": "RaioFP"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 350, "Strength": 1.5}}, {"Nome": "CorteDiabolico"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "Foice"}],
+    "Itens": [{"Nome": "PisaoLuas"}, {"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "BlackHole"}, {"Nome": "SusanooSlap"}, {"Nome": "Colateral"}, {"Nome": "BenimaruGrab"}, {"Nome": "CorteDoSol"}, {"Nome": "ChuteDeGelo"}, {"Nome": "HakiDoRei"}, {"Nome": "DemonBash"}, {"Nome": "SusanooEspada"}, {"Nome": "FPColateral"}, {"Nome": "RaioFP"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 350, "Strength": 1.5}}, {"Nome": "CorteDiabolico"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "Foice"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
