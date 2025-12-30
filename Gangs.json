@@ -43,17 +43,6 @@
     }
   },
 
-   "34577596": {
-    "Name": "Bofurin",
-    "Health": 10000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}],
-    "Colors": {
-      "Nome": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [178, 180, 206], "Borda": [0, 0, 0] }
-    }
-  },
-
    "35283892": {
     "Name": "The Servants of Death",
     "Health": 1000,
