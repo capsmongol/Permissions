@@ -2,7 +2,7 @@
   "11199941": {
     "Name": "Tokyo Manji Gang",
     "Health": 50000,
-    "Itens": [{"Nome": "Toman"}, {"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "BlackHole"}, {"Nome": "BenimaruGrab"}, {"Nome": "CorteDoSol"}, {"Nome": "ChuteDeGelo"}, {"Nome": "HakiDoRei"}, {"Nome": "DemonBash"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 23, "Strength": 1.435}}, {"Nome": "SusanooEspada"}],
+    "Itens": [{"Nome": "Toman"}, {"Nome": "CorteCircula"}, {"Nome": "Raio"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "BlackHole"}, {"Nome": "BenimaruGrab"}, {"Nome": "CorteDoSol"}, {"Nome": "ChuteDeGelo"}, {"Nome": "HakiDoRei"}, {"Nome": "DemonBash"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 23, "Strength": 1.435}}, {"Nome": "SusanooEspada"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
@@ -35,7 +35,7 @@
   "34271955": {
     "Name": "Valhalla",
     "Health": 50000,
-    "Itens": [{"Nome": "Valhalla"}, {"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "Foice"}, {"Nome": "Rinnegan"}, {"Nome": "SusanooSlap"}, {"Nome": "Colateral"}, {"Nome": "ChuteDeGelo"}],
+    "Itens": [{"Nome": "Valhalla"}, {"Nome": "CorteCircula"}, {"Nome": "Raio"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "Foice"}, {"Nome": "Rinnegan"}, {"Nome": "SusanooSlap"}, {"Nome": "Colateral"}, {"Nome": "ChuteDeGelo"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
