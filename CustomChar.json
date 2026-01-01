@@ -7,7 +7,7 @@
       "PlayerTier": 1000
     },
     "huashbuzio": {
-      "PlayerTier": 1000
+      "PlayerTier": 1
     },
     "ZzLuckZzx": {
       "PlayerTier": 100
@@ -25,7 +25,7 @@
   "Characters": {
     "Meguna": {
       "Tier": 1,
-      "Permission": []
+      "Permission": [4648262865]
     }
   }
 }
