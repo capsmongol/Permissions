@@ -35,7 +35,7 @@
   "34271955": {
     "Name": "Valhalla",
     "Health": 50000,
-    "Itens": [{"Nome": "Valhalla"}, {"Nome": "CorteCircula", "Buffs": {"Range" : 1.3, "Hit": 4}}, {"Nome": "Raio"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "Foice"}, {"Nome": "Rinnegan"}, {"Nome": "SusanooSlap"}, {"Nome": "Colateral"}, {"Nome": "ChuteDeGelo"}],
+    "Itens": [{"Nome": "Valhalla"}, {"Nome": "CorteCircula", "Buffs": {"Range" : 1.3, "Hit": 4}}, {"Nome": "Raio"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "Foice"}, {"Nome": "Rinnegan"}, {"Nome": "SusanooSlap"}, {"Nome": "Colateral", "Buffs": {"Strength": 1.45}}, {"Nome": "ChuteDeGelo"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
