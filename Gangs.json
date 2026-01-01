@@ -57,7 +57,7 @@
   "163929828": {
     "Name": "Silent Infinity",
     "Health": 5000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}],
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "ChuteDeGelo"}, {"Nome": "SusanooSlap"}, {"Nome": "Foice"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [155, 149, 207] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [155, 149, 207] },
@@ -68,7 +68,7 @@
    "16225202": {
     "Name": "Fang Of The Eclipse",
     "Health": 5000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}],
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "ChuteDeGelo"}, {"Nome": "HakiDoRei"}, {"Nome": "Foice"}],
     "Colors": {
       "Nome": { "Texto": [255, 165, 0], "Borda": [255, 255, 0] },
       "Patente": { "Texto": [255, 165, 0], "Borda": [255, 255, 0] },
