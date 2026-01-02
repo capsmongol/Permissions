@@ -46,7 +46,7 @@
    "35283892": {
     "Name": "The Servants of Death",
     "Health": 1000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}],
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "HakiDoRei"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [89, 247, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [89, 247, 255] },
