@@ -44,13 +44,13 @@
   },
 
    "35283892": {
-    "Name": "The Servants of Death",
+    "Name": "Máfia Italiana",
     "Health": 1000,
     "Itens": [{"Nome": "CorteCircula", "Buffs": {"Range" : 1.3}}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "SusanooSlap"}],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [89, 247, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [89, 247, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [89, 247, 255] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [0, 255, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [0, 255, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [0, 255, 0] }
     }
   },
 
