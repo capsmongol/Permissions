@@ -29,6 +29,10 @@
     }
   },
   "Characters": {
+     "Giorno": {
+      "Tier": 100,
+      "Permission": []
+    },
      "Gojo Final Arc": {
       "Tier": 10,
       "Permission": [4648262865]
