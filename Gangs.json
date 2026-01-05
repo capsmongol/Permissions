@@ -48,9 +48,9 @@
     "Health": 1000,
     "Itens": [{"Nome": "Kokusen"}, {"Nome": "Foice"}, {"Nome": "BlackHole"}, {"Nome": "Rinnegan", "Buffs": {"Strength" : 1.2}}],
     "Colors": {
-      "Nome": { "Texto": [255, 0, 0], "Borda": [242, 243, 243] },
-      "Patente": { "Texto": [255, 0, 0], "Borda": [242, 243, 243] },
-      "Team": { "Texto": [255, 0, 0], "Borda": [242, 243, 243] }
+      "Nome": { "Texto": [255, 0, 0], "Borda": [17, 17, 17] },
+      "Patente": { "Texto": [255, 0, 0], "Borda": [17, 17, 17] },
+      "Team": { "Texto": [255, 0, 0], "Borda": [17, 17, 17] }
     }
   },
 
