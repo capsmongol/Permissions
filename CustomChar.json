@@ -29,13 +29,17 @@
     }
   },
   "Characters": {
+     "Gojo Final Arc": {
+      "Tier": 100,
+      "Permission": [4648262865]
+    },
     "Meguna": {
       "Tier": 1,
       "Permission": [4648262865, 2269172441]
     },
-     "Gojo Final Arc": {
+    "Rimuru": {
       "Tier": 1,
-      "Permission": [4648262865]
+      "Permission": []
     }
   }
 }
