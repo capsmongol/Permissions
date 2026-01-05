@@ -32,6 +32,39 @@
     }
   },
 
+  "33869764": {
+    "Name": "Knights of the Blood",
+    "Health": 1000,
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "DemonBash"}, {"Nome": "ChuteDeGelo"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 45}}],
+    "Colors": {
+      "Nome": { "Texto": [255, 0, 0], "Borda": [85, 0, 0] },
+      "Patente": { "Texto": [255, 0, 0], "Borda": [85, 0, 0] },
+      "Team": { "Texto": [255, 0, 0], "Borda": [85, 0, 0] }
+    }
+  },
+
+   "825609349": {
+    "Name": "Aogiri no Tree",
+    "Health": 1000,
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "Foice"}, {"Nome": "BlackHole"}, {"Nome": "Rinnegan", "Buffs": {"Strength" : 1.2}}],
+    "Colors": {
+      "Nome": { "Texto": [255, 0, 0], "Borda": [242, 243, 243] },
+      "Patente": { "Texto": [255, 0, 0], "Borda": [242, 243, 243] },
+      "Team": { "Texto": [255, 0, 0], "Borda": [242, 243, 243] }
+    }
+  },
+
+  "35780585": {
+    "Name": "Los periquitos",
+    "Health": 1000,
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "SusanooSlap"}, {"Nome": "Raio"}, {"Nome": "Rinnegan"}],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [71, 255, 114], "Borda": [255, 255, 255] }
+    }
+  },
+
   "34271955": {
     "Name": "Máfia da Passione",
     "Health": 50000,
@@ -46,7 +79,7 @@
    "35283892": {
     "Name": "Máfia Italiana",
     "Health": 1000,
-    "Itens": [{"Nome": "CorteCircula", "Buffs": {"Range" : 1.3}}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "SusanooSlap"}],
+    "Itens": [{"Nome": "CorteCircula", "Buffs": {"Range" : 1.3}}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "SusanooSlap"}, {"Nome": "Raio"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [0, 255, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [0, 255, 0] },
