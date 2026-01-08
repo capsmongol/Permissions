@@ -79,7 +79,7 @@
   "34271955": {
     "Name": "Máfia da Passione",
     "Health": 50000,
-    "Itens": [{"Nome": "CorteCircula", "Buffs": {"Range" : 1.3, "Hit": 4}}, {"Nome": "Raio"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "CorteDoSol"}, {"Nome": "Rinnegan"}, {"Nome": "SusanooSlap"}, {"Nome": "Colateral", "Buffs": {"Strength": 1.2}}, {"Nome": "ChuteDeGelo"}, {"Nome": "HakiDoRei"}],
+    "Itens": [{"Nome": "CorteCircula", "Buffs": {"Range" : 1.3, "Hit": 4}}, {"Nome": "Raio"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "CorteDoSol"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 23, "Strength": 1.2}}, {"Nome": "SusanooSlap"}, {"Nome": "Colateral", "Buffs": {"Strength": 1.2}}, {"Nome": "ChuteDeGelo"}, {"Nome": "HakiDoRei"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [191, 0, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [191, 0, 255] },
