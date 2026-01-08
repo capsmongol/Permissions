@@ -2,7 +2,7 @@
   "11199941": {
     "Name": "Tokyo Manji Gang",
     "Health": 50000,
-    "Itens": [{"Nome": "Toman"}, {"Nome": "Raio"}, {"Nome": "CorteCircula", "Buffs": {"Range" : 1.1, "Strength": 1.2, "Hit": 3}}, {"Nome": "ChuteVoador"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "CorteDoSol", "Buffs": {"Range" : 1.25, "Strength": 1.2, "RagdollTime": 3}}, {"Nome": "ImpulsoSombrio"}, {"Nome": "ChuteDeGelo"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 23, "Strength": 1.435}}],
+    "Itens": [{"Nome": "Toman"}, {"Nome": "Raio"}, {"Nome": "CorteCircula", "Buffs": {"Range" : 1.1, "Strength": 1.2, "Hit": 3}}, {"Nome": "ChuteVoador"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "CorteDoSol", "Buffs": {"Range" : 1.25, "Strength": 1.2, "RagdollTime": 3.5}}, {"Nome": "ImpulsoSombrio"}, {"Nome": "ChuteDeGelo"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 23, "Strength": 1.435}}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
