@@ -32,6 +32,17 @@
     }
   },
 
+  "40822430": {
+    "Name": "Phenix god",
+    "Health": 750,
+    "Itens": [{"Nome": "Soco"}],
+    "Colors": {
+      "Nome": { "Texto": [255, 255, 0], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [255, 255, 35], "Borda": [255, 255, 0] },
+      "Team": { "Texto": [255, 215, 0], "Borda": [0, 0, 0] }
+    }
+  },
+
   "837651105": {
     "Name": "Eternal Dinasty",
     "Health": 1000,
