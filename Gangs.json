@@ -109,17 +109,6 @@
     }
   },
 
-  "163929828": {
-    "Name": "Silent Infinity",
-    "Health": 5000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "ChuteDeGelo"}, {"Nome": "SusanooSlap"}, {"Nome": "Foice"}],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [155, 149, 207] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [155, 149, 207] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [155, 149, 207] }
-    }
-  },
-
    "944451740": {
     "Name": "Manicas",
     "Health": 150000,
