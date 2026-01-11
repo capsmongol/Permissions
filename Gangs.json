@@ -88,7 +88,7 @@
   },
 
   "34271955": {
-    "Name": "Máfia da Passione",
+    "Name": "Os Betinhas",
     "Health": 50000,
     "Itens": [{"Nome": "CorteCircula", "Buffs": {"Range" : 1.3, "Hit": 4}}, {"Nome": "Raio"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "SusanooEspada"}, {"Nome": "CorteDoSol"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 23, "Strength": 1.2}}, {"Nome": "SusanooSlap"}, {"Nome": "Colateral", "Buffs": {"Strength": 1.2}}, {"Nome": "ChuteDeGelo"}, {"Nome": "HakiDoRei"}],
     "Colors": {
