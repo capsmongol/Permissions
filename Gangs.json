@@ -99,13 +99,13 @@
   },
 
    "35283892": {
-    "Name": "Devils",
+    "Name": "Hashiras",
     "Health": 1000,
     "Itens": [{"Nome": "CorteCircula", "Buffs": {"Range" : 1.3}}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "Rinnegan"}, {"Nome": "Raio"}, {"Nome": "Colateral"}, {"Nome": "BenimaruGrab"}],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [152, 3, 252] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [152, 3, 252] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [152, 3, 252] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [33, 52, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [33, 52, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
     }
   },
 
