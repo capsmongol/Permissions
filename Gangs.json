@@ -68,7 +68,7 @@
   "33869764": {
     "Name": "Knights of the Blood",
     "Health": 1000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "DemonBash"}, {"Nome": "ChuteDeGelo"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 45}}],
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "DemonBash"}, {"Nome": "ChuteDeGelo"}, {"Nome": "Raio"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 45}}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [125, 0, 65] },
       "Patente": { "Texto": [255, 255, 255], "Borda": [125, 0, 65] },
