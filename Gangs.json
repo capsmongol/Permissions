@@ -37,9 +37,9 @@
     "Health": 1000,
     "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "HakiDoRei"}],
     "Colors": {
-      "Nome": { "Texto": [176, 157, 48], "Borda": [124, 0, 2] },
-      "Patente": { "Texto": [176, 157, 48], "Borda": [124, 0, 2] },
-      "Team": { "Texto": [124, 0, 2], "Borda": [49, 80, 40] }
+      "Nome": { "Texto": [95, 7, 7], "Borda": [176, 157, 48] },
+      "Patente": { "Texto": [95, 7, 7], "Borda": [176, 157, 48] },
+      "Team": { "Texto": [49, 80, 40], "Borda": [95, 7, 7] }
     }
   },
 
