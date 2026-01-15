@@ -22,15 +22,21 @@
   },
 
   "35898106": {
-    "Name": "Ying Yang",
-    "Health": 10000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "YingColateral"}],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
-    }
-  },
+  "Name": "Ying Yang",
+  "Health": 10000,
+  "Itens": [
+    {"Nome": "Kokusen"},
+    {"Nome": "ChuteDeFogo"},
+    {"Nome": "Rasteira"},
+    {"Nome": "YingColateral"},
+    {"Nome": "RaioYing"}
+  ],
+  "Colors": {
+    "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+    "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+    "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+  }
+}
 
   "755862819": {
     "Name": "[R.C.R] Resistência Vermelha",
