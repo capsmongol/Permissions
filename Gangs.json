@@ -76,17 +76,6 @@
     }
   },
 
-   "825609349": {
-    "Name": "Aogiri no Tree",
-    "Health": 1000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeGelo"}, {"Nome": "Colateral"}, {"Nome": "Rinnegan", "Buffs": {"Strength" : 1.2}}],
-    "Colors": {
-      "Nome": { "Texto": [255, 64, 64], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [255, 64, 64], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [255, 64, 64], "Borda": [255, 255, 255] }
-    }
-  },
-
   "35780585": {
     "Name": "Los periquitos",
     "Health": 1000,
