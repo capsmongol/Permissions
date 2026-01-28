@@ -2,7 +2,7 @@
   "11199941": {
     "Name": "Tokyo Manji Gang",
     "Health": 50000,
-    "Itens": [{"Nome": "Toman"}, {"Nome": "Raio"}, {"Nome": "CorteCircula", "Buffs": {"Range" : 1.1, "Strength": 1.2, "Hit": 3}}, {"Nome": "ChuteVoador"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "Kirin"}, {"Nome": "CorteDoSol", "Buffs": {"Range" : 1.25, "Strength": 1.2, "RagdollTime": 3.5}}, {"Nome": "ImpulsoSombrio"}, {"Nome": "ChuteDeGelo"}, {"Nome": "CounterSobrouNada"}, {"Nome": "HakiDoRei"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 23, "Strength": 1.435}}],
+    "Itens": [{"Nome": "Toman"}, {"Nome": "Raio"}, {"Nome": "CorteCircula", "Buffs": {"Range" : 1.1, "Strength": 1.2, "Hit": 3}}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
@@ -13,7 +13,7 @@
   "33284171": {
     "Name": "Luas Superiores",
     "Health": 50000,
-    "Itens": [{"Nome": "PisaoLuas"}, {"Nome": "ChuteDeFogo"}, {"Nome": "FPColateral"}, {"Nome": "RaioFP"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 85, "Strength": 1}}, {"Nome": "CorteDiabolico"}, {"Nome": "BlackHole"},  {"Nome": "DemonBash"}],
+    "Itens": [{"Nome": "PisaoLuas"}, {"Nome": "ChuteDeFogo"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -24,7 +24,7 @@
   "35898106": {
     "Name": "Ying Yang",
     "Health": 10000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "YingColateral"}, {"Nome": "RaioYing"}, {"Nome": "SusanooYing"}],
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
@@ -35,7 +35,7 @@
   "755862819": {
     "Name": "[R.C.R] Resistência Vermelha",
     "Health": 1000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "HakiDoRei"}],
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "Raio"}],
     "Colors": {
       "Nome": { "Texto": [81, 6, 6], "Borda": [176, 157, 48] },
       "Patente": { "Texto": [81, 6, 6], "Borda": [176, 157, 48] },
@@ -57,7 +57,7 @@
   "837651105": {
     "Name": "Eternal Dinasty",
     "Health": 1000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "SusanooSlap"}],
+    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}],
     "Colors": {
       "Nome": { "Texto": [255, 255, 255], "Borda": [102, 255, 94] },
       "Patente": { "Texto": [255, 255, 255], "Borda": [102, 255, 94] },
@@ -68,7 +68,7 @@
   "33869764": {
     "Name": "Knights of the Blood",
     "Health": 1000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "DemonBash"}, {"Nome": "ChuteDeGelo"}, {"Nome": "Raio"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 45}}],
+    "Itens": [{"Nome": "Kokusen"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [125, 0, 65] },
       "Patente": { "Texto": [255, 255, 255], "Borda": [125, 0, 65] },
@@ -79,7 +79,7 @@
   "35780585": {
     "Name": "Los periquitos",
     "Health": 1000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "SusanooSlap"}, {"Nome": "Raio"}, {"Nome": "Rinnegan"}],
+    "Itens": [{"Nome": "Kokusen"}],
     "Colors": {
       "Nome": { "Texto": [40, 120, 120], "Borda": [175, 248, 255] },
       "Patente": { "Texto": [40, 120, 120], "Borda": [175, 248, 255] },
@@ -90,7 +90,7 @@
   "34271955": {
     "Name": "Os Betinhas",
     "Health": 50000,
-    "Itens": [{"Nome": "CorteCircula", "Buffs": {"Range" : 1.3, "Hit": 4}}, {"Nome": "Raio"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "SusanooEspada"}, {"Nome": "CorteDoSol"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 23, "Strength": 1.2}}, {"Nome": "CounterSobrouNada"}, {"Nome": "Colateral", "Buffs": {"Strength": 1.2}}, {"Nome": "ChuteDeGelo"}],
+    "Itens": [{"Nome": "CorteCircula", "Buffs": {"Range" : 1.3, "Hit": 4}}, {"Nome": "Raio"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [107, 49, 53] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [107, 49, 53] },
@@ -101,7 +101,7 @@
    "35283892": {
     "Name": "Hashiras",
     "Health": 1000,
-    "Itens": [{"Nome": "CorteCircula", "Buffs": {"Range" : 1.3}}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "Rinnegan"}, {"Nome": "Raio"}, {"Nome": "Colateral"}, {"Nome": "BenimaruGrab"}],
+    "Itens": [{"Nome": "CorteCircula"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [33, 52, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [33, 52, 255] },
@@ -112,7 +112,7 @@
    "944451740": {
     "Name": "Manicas",
     "Health": 150000,
-    "Itens": [{"Nome": "PisaoLuas"}, {"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "BlackHole"}, {"Nome": "SusanooSlap"}, {"Nome": "Colateral"}, {"Nome": "BenimaruGrab"}, {"Nome": "CorteDoSol"}, {"Nome": "ChuteDeGelo"}, {"Nome": "HakiDoRei"}, {"Nome": "DemonBash"}, {"Nome": "SusanooEspada"}, {"Nome": "FPColateral"}, {"Nome": "RaioFP"}, {"Nome": "Rinnegan", "Buffs": {"Range" : 350, "Strength": 1.5}}, {"Nome": "CorteDiabolico"}, {"Nome": "FAHHHHHHHHHHHHHHHHHHH"}, {"Nome": "Foice"}],
+    "Itens": [{"Nome": "PisaoLuas"}],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
