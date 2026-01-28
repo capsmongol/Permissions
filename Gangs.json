@@ -64,29 +64,7 @@
       "Team": { "Texto": [255, 255, 255], "Borda": [102, 255, 94] }
     }
   },
-
-  "33869764": {
-    "Name": "Knights of the Blood",
-    "Health": 1000,
-    "Itens": [{"Nome": "Kokusen"}],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [125, 0, 65] },
-      "Patente": { "Texto": [255, 255, 255], "Borda": [125, 0, 65] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [125, 0, 65] }
-    }
-  },
-
-  "35780585": {
-    "Name": "Los periquitos",
-    "Health": 1000,
-    "Itens": [{"Nome": "Kokusen"}],
-    "Colors": {
-      "Nome": { "Texto": [40, 120, 120], "Borda": [175, 248, 255] },
-      "Patente": { "Texto": [40, 120, 120], "Borda": [175, 248, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
-    }
-  },
-
+  
   "34271955": {
     "Name": "Os Betinhas",
     "Health": 50000,
@@ -106,17 +84,6 @@
       "Nome": { "Texto": [0, 0, 0], "Borda": [33, 52, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [33, 52, 255] },
       "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
-    }
-  },
-
-   "944451740": {
-    "Name": "Manicas",
-    "Health": 150000,
-    "Itens": [{"Nome": "PisaoLuas"}],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
     }
   }
 }
